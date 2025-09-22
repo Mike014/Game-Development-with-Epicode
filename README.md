@@ -15,6 +15,5 @@ All’interno ci sono i file in formato **.pdf**.
 
 ## Note
 Questo repository è pensato come archivio personale e diario di studio, ma può essere utile anche ad altri studenti che seguono lo stesso percorso.
-```
 
 
