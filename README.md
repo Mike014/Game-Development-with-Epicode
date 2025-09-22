@@ -7,14 +7,9 @@ Lo scopo è avere un archivio ordinato del percorso di studio, con materiale uti
 
 ## Certificati
 I certificati ottenuti durante il percorso si trovano nella cartella:
-
-```
-
-
-
-```
-
 All’interno ci sono i file in formato **.pdf**.
+
+- [CSS-HMTL5](Certificati/CSS-HTML5-Epicode.pdf) 
 
 ---
 
