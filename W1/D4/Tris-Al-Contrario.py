@@ -28,7 +28,6 @@ def conta_minacce(g, sym):
     for a,b,c in LINEE:
         riga = [g[a], g[b], g[c]]
         if riga.count(sym) == 2 and riga.count(" ") == 1:
-            # trova la posizione vuota
             for pos in [a,b,c]:
                 if g[pos] == " ":
                     minacce.append(pos)
@@ -52,16 +51,15 @@ def ia_difensiva(g, sym, prossimo_sym_avversario):
     # 1. Filtra mosse che NON completano tris
     mosse_sicure = []
     for pos in libere:
-        g[pos] = sym  # simula
+        g[pos] = sym
         if not tris_fatto(g, sym):
             mosse_sicure.append(pos)
-        g[pos] = " "  # annulla
+        g[pos] = " "
     
-    # Se tutte le mosse completano tris (situazione estrema), forza random
     if not mosse_sicure:
         return random.choice(libere)
     
-    # 2. Blocca minacce dell'avversario (con il simbolo che userà PROSSIMAMENTE)
+    # 2. Blocca minacce dell'avversario
     minacce_avv = conta_minacce(g, prossimo_sym_avversario)
     blocchi_utili = [m for m in minacce_avv if m in mosse_sicure]
     if blocchi_utili:
@@ -74,9 +72,8 @@ def ia_difensiva(g, sym, prossimo_sym_avversario):
 def ia_offensiva(g, sym, prossimo_mio_sym, prossimo_sym_avversario):
     """
     Strategia avanzata:
-    1. EVITA di completare tris
-    2. Cerca di creare UNA minaccia con il simbolo che userò al PROSSIMO turno
-       (così l'avversario sarà costretto a bloccarla o rischiare che io la completi)
+    1. EVITA di completare tris (tranne se è trappola doppia)
+    2. Cerca di creare minacce con il simbolo del prossimo turno
     3. Blocca minacce dell'avversario
     4. Gioca al centro se libero
     5. Altrimenti casuale
@@ -95,13 +92,9 @@ def ia_offensiva(g, sym, prossimo_mio_sym, prossimo_sym_avversario):
         return random.choice(libere)
     
     # 2. Cerca di preparare una minaccia per il PROSSIMO turno
-    # (piazza una mossa che crei una linea a 2 col simbolo del prossimo turno)
     mosse_setup = []
     for pos in mosse_sicure:
-        g[pos] = sym  # piazza
-        # Simula il turno avversario (non deve completare)
-        # Poi controlla se al MIO prossimo turno avrei una minaccia
-        # (semplificazione: contiamo le minacce potenziali)
+        g[pos] = sym
         
         # Conta quante linee avrebbero 1 simbolo del mio prossimo tipo
         potenziale = 0
@@ -110,10 +103,10 @@ def ia_offensiva(g, sym, prossimo_mio_sym, prossimo_sym_avversario):
             if riga.count(prossimo_mio_sym) == 1 and riga.count(" ") == 2:
                 potenziale += 1
         
-        if potenziale >= 2:  # se creo almeno 2 linee parziali
+        if potenziale >= 2:
             mosse_setup.append(pos)
         
-        g[pos] = " "  # annulla
+        g[pos] = " "
     
     if mosse_setup:
         return random.choice(mosse_setup)
@@ -136,7 +129,7 @@ def ia_offensiva(g, sym, prossimo_mio_sym, prossimo_sym_avversario):
     
     return random.choice(mosse_sicure)
 
-# ========== ENGINE DI GIOCO ==========
+# ========== ENGINE DI GIOCO (CON FIX TRAPPOLA DOPPIA) ==========
 def round_tris_al_contrario(tipo_a, tipo_b, starter, verbose=True):
     """
     tipo_a, tipo_b: "umano", "random", "difensiva", "offensiva"
@@ -157,7 +150,6 @@ def round_tris_al_contrario(tipo_a, tipo_b, starter, verbose=True):
         sym = prossimo_simbolo[giocatore]
         tipo = tipo_a if giocatore == "A" else tipo_b
         
-        # Calcola il simbolo che l'avversario userà al suo prossimo turno
         avversario = "B" if giocatore == "A" else "A"
         prossimo_sym_avversario = prossimo_simbolo[avversario]
         prossimo_mio_sym = "O" if sym == "X" else "X"
@@ -197,12 +189,24 @@ def round_tris_al_contrario(tipo_a, tipo_b, starter, verbose=True):
         griglia[pos] = sym
         mosse_fatte += 1
         
+        # ===== FIX #2: CHECK TRAPPOLA DOPPIA =====
+        minacce_create = len(conta_minacce(griglia, sym))
+        trappola_doppia = minacce_create >= 2
+        
         # Check tris
         if tris_fatto(griglia, sym):
-            vincitore_passa_punto = avversario
-            if verbose:
-                stampa_griglia(griglia)
-                print(f"Tris completato da {giocatore} con '{sym}' → Punto a {avversario}!")
+            if trappola_doppia:
+                # TRAPPOLA DOPPIA: punto al giocatore che ha creato la situazione
+                vincitore_passa_punto = giocatore
+                if verbose:
+                    stampa_griglia(griglia)
+                    print(f"⚡ TRAPPOLA DOPPIA! {giocatore} completa tris con '{sym}' → Punto a {giocatore}!")
+            else:
+                # Regola normale: punto all'avversario
+                vincitore_passa_punto = avversario
+                if verbose:
+                    stampa_griglia(griglia)
+                    print(f"Tris completato da {giocatore} con '{sym}' → Punto a {avversario}!")
             break
         
         # Pareggio
@@ -220,16 +224,18 @@ def round_tris_al_contrario(tipo_a, tipo_b, starter, verbose=True):
     
     return vincitore_passa_punto, mosse_fatte
 
-# ========== PARTITA ==========
-def partita(tipo_a="umano", tipo_b="offensiva", max_punti=3, verbose=True):
+# ========== PARTITA (CON FIX #1: ALTERNANZA STARTER) ==========
+def partita(tipo_a="umano", tipo_b="offensiva", max_punti=3, verbose=True, primo_starter="A"):
     """
     Esempio:
     - tipo_a="umano", tipo_b="offensiva"  → Tu vs IA forte
     - tipo_a="random", tipo_b="difensiva" → IA debole vs IA media
     - tipo_a="offensiva", tipo_b="offensiva" → IA vs IA (per benchmark)
+    
+    primo_starter: "A" o "B" - chi inizia il primo round della partita
     """
     punteggio = {"A": 0, "B": 0}
-    starter = "A"
+    starter = primo_starter  # ===== FIX #1: starter parametrizzato =====
     log_rounds = []
     
     while True:
@@ -270,18 +276,23 @@ def partita(tipo_a="umano", tipo_b="offensiva", max_punti=3, verbose=True):
                 print("Partita interrotta.")
             return None, log_rounds
 
-# ========== BENCHMARK ==========
+# ========== BENCHMARK (CON FIX #1: ALTERNANZA STARTER TRA PARTITE) ==========
 def benchmark(tipo_a, tipo_b, n_partite=100):
     """Esegue N partite e stampa statistiche"""
-    print(f"\n🔬 Benchmark: {tipo_a} vs {tipo_b} ({n_partite} partite)\n")
+    print(f"\n🔬 Benchmark: {tipo_a} vs {tipo_b} ({n_partite} partite)")
+    print(f"   [Fix Alternanza Starter: metà partite inizia A, metà B]\n")
     
     vittorie = {"A": 0, "B": 0}
     totale_rounds = 0
     totale_mosse = 0
     hand_offs = 0
+    trappole_doppie = 0
     
     for i in range(n_partite):
-        vincitore, log = partita(tipo_a, tipo_b, max_punti=3, verbose=False)
+        # ===== FIX #1: Alterna primo_starter ogni partita =====
+        primo = "A" if i % 2 == 0 else "B"
+        vincitore, log = partita(tipo_a, tipo_b, max_punti=3, verbose=False, primo_starter=primo)
+        
         if vincitore:
             vittorie[vincitore] += 1
         
@@ -300,14 +311,16 @@ def benchmark(tipo_a, tipo_b, n_partite=100):
 
 # ========== MAIN ==========
 if __name__ == "__main__":
-    print("=== TRIS AL CONTRARIO - Flip + Passa-Punto ===\n")
+    print("=== TRIS AL CONTRARIO - Flip + Passa-Punto ===")
+    print("Versione Bilanciata (Fix Starter + Trappola Doppia)\n")
     print("Modalità disponibili:")
     print("1. Umano vs IA Offensiva")
     print("2. IA Random vs IA Difensiva (demo)")
     print("3. IA Offensiva vs IA Offensiva (demo)")
     print("4. Benchmark (100 partite)")
+    print("5. Benchmark ESTESO (1000 partite) - consigliato per test finale")
     
-    scelta = input("\nScegli modalità [1-4]: ").strip()
+    scelta = input("\nScegli modalità [1-5]: ").strip()
     
     if scelta == "1":
         partita(tipo_a="umano", tipo_b="offensiva")
@@ -324,6 +337,16 @@ if __name__ == "__main__":
         benchmark("offensiva", "difensiva", 100)
         print("\n--- Test 4: Offensiva vs Offensiva ---")
         benchmark("offensiva", "offensiva", 100)
+    elif scelta == "5":
+        print("\n🚀 BENCHMARK ESTESO (1000 partite)")
+        print("\n--- Test 1: Random vs Random ---")
+        benchmark("random", "random", 1000)
+        print("\n--- Test 2: Difensiva vs Random ---")
+        benchmark("difensiva", "random", 1000)
+        print("\n--- Test 3: Offensiva vs Difensiva ---")
+        benchmark("offensiva", "difensiva", 1000)
+        print("\n--- Test 4: Offensiva vs Offensiva ---")
+        benchmark("offensiva", "offensiva", 1000)
     else:
         print("Scelta non valida. Avvio partita Umano vs IA.")
         partita(tipo_a="umano", tipo_b="offensiva")
