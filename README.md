@@ -3,6 +3,11 @@
 Questa repository raccoglie i **riassunti, appunti ed esercizi** delle lezioni seguite durante il mio **Master in Game Development con Epicode**.  
 Lo scopo è avere un archivio ordinato del percorso di studio, con materiale utile per il ripasso e la consultazione.
 
+## Pratica
+
+Lista delle esercitazione svolte:
+- [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D1/Pratica.ipynb)
+- [D4](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D4/Pratica.ipynb)
 ---
 
 ## Certificati
