@@ -6,9 +6,13 @@ Lo scopo è avere un archivio ordinato del percorso di studio, con materiale uti
 ## Pratica
 
 Lista delle esercitazione svolte:
-- [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D1/Pratica.ipynb)
-- [D4](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D4/Pratica.ipynb)
+### W1: 
+   - [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D1/Pratica.ipynb)
+   - [D4](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D4/Pratica.ipynb)
 ---
+
+### W2: 
+   - [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W2/D1/Pratica.ipynb) 
 
 ## Certificati
 I certificati ottenuti durante il percorso si trovano nella cartella:
