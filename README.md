@@ -18,7 +18,8 @@ Lista delle esercitazione svolte:
 I certificati ottenuti durante il percorso si trovano nella cartella:
 All’interno ci sono i file in formato **.pdf**.
 
-- [CSS-HMTL5](Certificati/CSS-HTML5-Epicode.pdf) 
+- [CSS-HMTL5](Certificati/CSS-HTML5-Epicode.pdf)
+- [Introduction to Game Design & Game Development / Word / PowerPoint](https://drive.google.com/file/d/1CYLJZnM2wFFTxdFbwHLAsPb-AuGp-02y/view?usp=sharing)
 
 ---
 
