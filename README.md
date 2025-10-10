@@ -12,7 +12,8 @@ Lista delle esercitazione svolte:
 ---
 
 ### W2: 
-   - [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W2/D1/Pratica.ipynb) 
+   - [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W2/D1/Pratica.ipynb)
+   - [D4](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/) 
 
 ## Certificati
 I certificati ottenuti durante il percorso si trovano nella cartella:
