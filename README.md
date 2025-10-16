@@ -6,14 +6,36 @@ Lo scopo è avere un archivio ordinato del percorso di studio, con materiale uti
 ## Pratica
 
 Lista delle esercitazione svolte:
-### W1: 
-   - [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D1/Pratica.ipynb)
-   - [D4](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W1/D4/Pratica.ipynb)
+
+### M1: Intro al game design e al game development
+
+#### W1
+- [D1 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W1/D1/Pratica.ipynb)
+- [D4 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W1/D4/Pratica.ipynb)
+
 ---
 
-### W2: 
-   - [D1](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/W2/D1/Pratica.ipynb)
-   - [D4](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/) 
+#### W2
+- [D1 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W2/D1/Pratica.ipynb)
+- [D4 - Dialoghi con un'Eco Pitch](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/)
+
+---
+
+### M2: Fondamenti di C# e Introduzione a Unity
+
+#### W1
+- [D1 - Empty]()
+- [D4 - Empty]()
+
+---
+
+#### W2
+- [D1 - Empty]()
+- [D4 - Empty]()
+
+---
+
+
 
 ## Certificati
 I certificati ottenuti durante il percorso si trovano nella cartella:
