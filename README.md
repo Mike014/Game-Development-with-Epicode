@@ -24,7 +24,7 @@ Lista delle esercitazione svolte:
 ### M2: Fondamenti di C# e Introduzione a Unity
 
 #### W1
-- [D1 - Empty]()
+- [D1 - Empty](https://github.com/Mike014/m2-g1-lab)
 - [D4 - Empty]()
 
 ---
