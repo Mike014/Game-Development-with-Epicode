@@ -25,7 +25,7 @@ Lista delle esercitazione svolte:
 
 #### W1
 - [D1 - Pratica](https://github.com/Mike014/m2-g1-lab)
-- [D4 - Empty]()
+- [D4 - Pratica](https://github.com/Mike014/m2-g1-lab)
 
 ---
 
