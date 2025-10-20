@@ -1,0 +1,3 @@
+| Settimana | GiornoEpicode | Giorno         | Orario         | Orario totale | Motivo                           | Giustificazione     |
+|-----------|---------------|----------------|----------------|---------------|----------------------------------|---------------------|
+| Week1     | D4            | 16 Ottobre 2025 | da 19:05 a 21:42 | 2h 36m        | Risulto assente per errore di Webex | Giustificazione Mandata |
