@@ -30,7 +30,7 @@ Lista delle esercitazione svolte:
 ---
 
 #### W2
-- [D1 - Empty]()
+- [D1 - Pratica](https://github.com/Mike014/m2-g2-lab)
 - [D4 - Empty]()
 
 ---
