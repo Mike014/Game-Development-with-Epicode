@@ -37,7 +37,7 @@ Lista delle esercitazione svolte:
 
 #### W3
 - [D1 - Pratica](https://github.com/Mike014/W3-D1-Pratica)
-- [D4 - Emoty]()
+- [D4 - Pratica](https://github.com/Mike014/W3-D4-Pratica)
 
 ---
 
