@@ -41,6 +41,10 @@ Lista delle esercitazione svolte:
 
 ---
 
+#### W4
+- [D1 - Pratica](https://github.com/Mike014/W3-D4-Pratica/tree/main/Script)
+- [D4 - Empty]()
+
 ## Certificati
 I certificati ottenuti durante il percorso si trovano nella cartella:
 All’interno ci sono i file in formato **.pdf**.
