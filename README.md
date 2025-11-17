@@ -19,31 +19,32 @@ Lista delle esercitazione svolte:
 - [D1 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W2/D1/Pratica.ipynb)
 - [D4 - Dialoghi con un'Eco Pitch](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/)
 
----
-
 ### M2: Fondamenti di C# e Introduzione a Unity
 
 #### W1
 - [D1 - Pratica](https://github.com/Mike014/m2-g1-lab)
 - [D4 - Pratica](https://github.com/Mike014/m2-g1-lab)
 
----
-
 #### W2
 - [D1 - Pratica](https://github.com/Mike014/m2-g2-lab)
 - [D4 - Pratica](https://github.com/Mike014/m2-g4-lab)
-
----
 
 #### W3
 - [D1 - Pratica](https://github.com/Mike014/W3-D1-Pratica)
 - [D4 - Pratica](https://github.com/Mike014/W3-D4-Pratica)
 
----
-
 #### W4
 - [D1 - Pratica](https://github.com/Mike014/W3-D4-Pratica/tree/main/Script)
 - [D4 - Empty]()
+
+---
+### M3 : Unity: November 10th - December 12th
+
+#### W1
+- [D1 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/M3/D1/D1_pratica/Scripts )
+- [D4 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/M3/D4/D4_Pratica/D4)
+
+---
 
 ## Certificati
 I certificati ottenuti durante il percorso si trovano nella cartella:
