@@ -13,11 +13,11 @@ Lista delle esercitazione svolte:
 - [D1 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W1/D1/Pratica.ipynb)
 - [D4 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W1/D4/Pratica.ipynb)
 
----
-
 #### W2
 - [D1 - Pratica](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/M1/W2/D1/Pratica.ipynb)
 - [D4 - Dialoghi con un'Eco Pitch](https://mike014.github.io/Dialoghi_con_un_eco_Pitch/)
+
+---
 
 ### M2: Fondamenti di C# e Introduzione a Unity
 
@@ -38,6 +38,7 @@ Lista delle esercitazione svolte:
 - [D4 - Empty]()
 
 ---
+
 ### M3 : Unity: November 10th - December 12th
 
 #### W1
