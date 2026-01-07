@@ -15,15 +15,23 @@ Dopo tre anni specializzato in Sound Design per videogiochi, ho scoperto che **i
 **La soluzione:** evolvere da sound designer ad **Audio Programmer**—chi progetta, implementa e integra sistemi audio complessi in Unity.
 
 Ho investito **€15.000+** in formazione (MasAcademy, CodeAcademy, Coursera, EPICODE Master) acquisendo:
+
+**Audio & Implementation:**
 - Ingegneria e Manipolazione Audio
-- Unity + C# (gameplay programming)
-- Unreal Engine
-- Spatial Audio / Dolby
-- GitHub
-- C++/Python
-- Django Web Framework 
-- Wwise implementation
-- ML/AI con Torch & Keras (contributi approvati NLTK, research su NPCs intelligenti)
+- Wwise/FMOD implementation  
+- Spatial Audio / Dolby Atmos
+- Audio Programming (procedural systems)
+
+**Game Development:**
+- Unity (C#) - Gameplay & Systems
+- Unreal Engine (C++/Blueprint)
+- Version Control (Git/GitHub)
+
+**AI & Programming:**
+- Python (ML/AI con PyTorch, Keras, TensorFlow)
+- ML-Agents (Unity)
+- Django Web Framework
+- Contributi open-source: NLTK, DocsGPT
 
 ## Competenze Core
 
@@ -43,7 +51,7 @@ Audio Programming • Sistemi audio procedurali • VR/XR audio • AI/NPC behav
 - Cat's Craving (Unreal) - lead audio pipeline  
 - Memory-Augmented AI - research (500+ downloads Zenodo)  
 - NLTK/DocsGPT - approved open-source contributions
-- ChorBoard - FullStack|Cross Platform with JUCE
+- ChordBoard - FullStack|Cross Platform with JUCE
 
 ## Focus Strategico: VR/XR > Gaming Tradizionale
 
