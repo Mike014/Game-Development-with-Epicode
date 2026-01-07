@@ -30,6 +30,11 @@ Unity (C#) • Wwise • Unreal Engine (C++) • Python • Spatial Audio • ML
 **Specializzazioni:**  
 Audio Programming • Sistemi audio procedurali • VR/XR audio • AI/NPC behavior • Cross-platform development
 
+**Certificazioni in Corso:**  
+- Unity Certified Programmer (targeting Q2 2026)  
+- Wwise Certification (targeting Q2 2026)  
+*Strategia: accelerare screening HR e validare competenze tecniche per recruiter non-tecnici*
+
 **Progetti Chiave:**  
 - E.C.H.O. Rogue Machine (Steam) - sound design, technical consulting  
 - Cat's Craving (Unreal) - lead audio pipeline  
