@@ -14,13 +14,16 @@ Dopo tre anni specializzato in Sound Design per videogiochi, ho scoperto che **i
 
 **La soluzione:** evolvere da sound designer ad **Audio Programmer**—chi progetta, implementa e integra sistemi audio complessi in Unity.
 
-Ho investito **€15.000** in formazione (CodeAcademy, Coursera, EPICODE Master) acquisendo:
+Ho investito **€15.000+** in formazione (MasAcademy, CodeAcademy, Coursera, EPICODE Master) acquisendo:
+- Ingegneria e Manipolazione Audio
 - Unity + C# (gameplay programming)
+- Unreal Engine
+- Spatial Audio / Dolby
 - GitHub
 - C++/Python
+- Django Web Framework 
 - Wwise implementation
-- ML/AI (contributi approvati NLTK, research su NPCs intelligenti)
-- Spatial Audio per VR/XR
+- ML/AI con Torch & Keras (contributi approvati NLTK, research su NPCs intelligenti)
 
 ## Competenze Core
 
