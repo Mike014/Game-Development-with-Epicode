@@ -16,7 +16,9 @@ Dopo tre anni specializzato in Sound Design per videogiochi, ho scoperto che **i
 
 Ho investito **€15.000** in formazione (CodeAcademy, Coursera, EPICODE Master) acquisendo:
 - Unity + C# (gameplay programming)
-- Wwise/FMOD implementation
+- GitHub
+- C++/Python
+- Wwise implementation
 - ML/AI (contributi approvati NLTK, research su NPCs intelligenti)
 - Spatial Audio per VR/XR
 
