@@ -27,8 +27,8 @@ Questa repository raccoglie i riassunti, gli appunti e gli esercizi completati d
 - [PreCorso](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/PreCorso)
 - [Concetti Extra](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/ConcettiExtra)
 - [Ebook e Libri su Unity](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/Ebook-from-Unity)
+- [Game Design](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/Game_Design)
 - [Wwise](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/WwiseDocumentation)
-
 ---
 
 ### Il Percorso Professionale
