@@ -39,6 +39,9 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - **[Team Ozzico](https://github.com/Mike014/team-ozzico)**  
   Progetto collaborativo sviluppato in team durante il Master Epicode, con focus su workflow, collaborazione e sviluppo condiviso.
 
+- **[Unity C# Sandbox](https://github.com/Mike014/Unity-csharp-sandbox)**
+  Un percorso pratico di apprendimento del C# attraverso Unity, esplorando i fondamenti dello scripting, i sistemi UI e la grafica — con un focus sul codice e la documentazione della Scripting API.
+
 ---
 
 ### Progetti AI / Narrative Systems (Ricerca e sperimentazione)
