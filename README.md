@@ -77,6 +77,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Concetti Extra](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/ConcettiExtra)
 - [Ebook & Libri su Unity](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/Ebook-from-Unity)
 - [Game Design](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/Game_Design)
+- [Glossario](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/Glossario.ipynb)
 - [Wwise Documentation](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/WwiseDocumentation)
 
 ---
