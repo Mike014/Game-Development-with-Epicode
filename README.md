@@ -43,7 +43,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
   Un percorso pratico di apprendimento del C# attraverso Unity, esplorando i fondamenti dello scripting, i sistemi UI e la grafica — con un focus sul codice e la documentazione della Scripting API.
 
 - **[Top-Down Shooter - Hotline Miami Mechanics](https://github.com/Mike014/Top-Down-Shooter---Hotline-Miami-Mechanics)**
-  A personal project dedicated to experimenting with and replicating the core gameplay loop and high-octane mechanics of Hotline Miami.
+  Un progetto personale dedicato a sperimentare e replicare il ciclo di gioco principale e le meccaniche ad alto ritmo di Hotline Miami.
 
 ---
 
