@@ -42,6 +42,9 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - **[Unity C# Sandbox](https://github.com/Mike014/Unity-csharp-sandbox)**
   Un percorso pratico di apprendimento del C# attraverso Unity, esplorando i fondamenti dello scripting, i sistemi UI e la grafica — con un focus sul codice e la documentazione della Scripting API.
 
+- **[Top-Down Shooter - Hotline Miami Mechanics](https://github.com/Mike014/Top-Down-Shooter---Hotline-Miami-Mechanics)**
+  A personal project dedicated to experimenting with and replicating the core gameplay loop and high-octane mechanics of Hotline Miami.
+
 ---
 
 ### Progetti AI / Narrative Systems (Ricerca e sperimentazione)
