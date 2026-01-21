@@ -45,6 +45,9 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - **[Top-Down Shooter - Hotline Miami Mechanics](https://github.com/Mike014/Top-Down-Shooter---Hotline-Miami-Mechanics)**
   Un progetto personale dedicato a sperimentare e replicare il ciclo di gioco principale e le meccaniche ad alto ritmo di Hotline Miami.
 
+- **[Pong](https://github.com/Mike014/Pong)**
+  Questo progetto si basa sulle meccaniche originali di Pong, estese significativamente con logiche C# personalizzate per l'IA, una gestione avanzata della fisica e il controllo degli stati di gioco.
+  
 ---
 
 ### Progetti AI / Narrative Systems (Ricerca e sperimentazione)
