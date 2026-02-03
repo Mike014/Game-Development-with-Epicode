@@ -50,6 +50,9 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 
 - **[Unity 3D Prototype - Survival Runner](https://github.com/Mike014/M4W4D4_Unity-3D-Prototype---Survival-Runner)**
   Questo progetto è un prototipo funzionale di un gioco 3D survival/runner, sviluppato utilizzando Primitive di Unity (Cubi, Sfere, Capsule) per testare le meccaniche di gameplay pure senza distrazioni grafiche.
+
+- **[Unity Math](https://github.com/Mike014/Unity_Math)**
+  Essercizi pratici e formule di matematica essenziale in Unity,
   
 ---
 
