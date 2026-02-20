@@ -52,8 +52,11 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
   Questo progetto è un prototipo funzionale di un gioco 3D survival/runner, sviluppato utilizzando Primitive di Unity (Cubi, Sfere, Capsule) per testare le meccaniche di gameplay pure senza distrazioni grafiche.
 
 - **[Unity Math](https://github.com/Mike014/Unity_Math)**
-  Essercizi pratici e formule di matematica essenziale in Unity,
-  
+  Essercizi pratici e formule di matematica essenziale in Unity
+
+- **[Stealth in visuale isometrica](https://github.com/Mike014/M5_Final_Project)**
+  Un gioco stealth in visuale isometrica sviluppato in Unity come progetto conclusivo del Modulo 5 del Master in Game Development Epicode.
+
 ---
 
 ### Progetti AI / Narrative Systems (Ricerca e sperimentazione)
