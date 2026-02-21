@@ -83,6 +83,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [M2](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/M2)
 - [M3](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/M3)
 - [M4](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/M4)
+- Il resto dei Moduli sono stati scritti su Google Docs, verranno caricati a breve.
 
 ---
 
