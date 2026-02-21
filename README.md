@@ -57,6 +57,8 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - **[Stealth in visuale isometrica](https://github.com/Mike014/M5_Final_Project)**
   Un gioco stealth in visuale isometrica sviluppato in Unity come progetto conclusivo del Modulo 5 del Master in Game Development Epicode.
 
+- **[Space Invaders](https://github.com/Mike014/SpaceAttackers_or_-SpaceInvaders-xD)**
+  Un classico gioco arcade ispirato a Space Invaders, sviluppato con Unity.
 ---
 
 ### Progetti AI / Narrative Systems (Ricerca e sperimentazione)
