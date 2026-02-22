@@ -95,6 +95,16 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Glossario](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/Glossario.ipynb)
 - [Wwise Documentation](https://github.com/Mike014/Game-Development-with-Epicode/tree/main/WwiseDocumentation)
 
+## 📂 Google Docs
+- [Math For Unity](docs.google.com/document/d/1sGe83IBElGCfSi-Dw7CiI1Ty4MYAyEp8kXU1l1W5ZLk/edit?tab=t.0)
+- [Jobs](https://docs.google.com/document/d/1f4FIT34GC6khM0Dcy-otY70x7vmAuALUIE1qsdymLuw/edit?tab=t.0)
+- [Ottimizzare Prestazioni in Unity](https://docs.google.com/document/d/1YqE_lrGKEEZC1aK1feE7Gag8I4ra5T_NM_AHN7sRzi8/edit?tab=t.0)
+- [Design pattern e i Principi SOLID](https://docs.google.com/document/d/1YQPo3Dr8Qy_6aSPV4SrY-Cnk6ipnr6mMbsB4niGOinU/edit?tab=t.0)
+- [Argomento Avanzato C#](https://docs.google.com/document/d/1G4VHsKtjE4k4R1Tfatc13L-BXgutcK8y_7Z0bcDMmi8/edit?tab=t.0)
+- [NavMesh](https://docs.google.com/document/d/1NLhRqfKIM5A_lw0TQd3nOaOrecXuUhBf2AToVOOavwc/edit?tab=t.0#heading=h.vfso4c4bap86)
+- [AI Unity](https://docs.google.com/document/d/1IFN-UBsYQr3uqVetnu6pJXC-NUczqTsSEzDkwoXLqbo/edit?tab=t.0)
+- [Spatial Audio](https://docs.google.com/document/d/1FlK848Y9hrPyqrTTwKmPOR768kCXK8g5gLvKWfBgjpA/edit?tab=t.0)
+
 ---
 
 ## 🧭 Percorso Professionale
