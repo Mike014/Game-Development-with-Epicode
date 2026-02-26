@@ -104,6 +104,9 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [NavMesh](https://docs.google.com/document/d/1NLhRqfKIM5A_lw0TQd3nOaOrecXuUhBf2AToVOOavwc/edit?tab=t.0#heading=h.vfso4c4bap86)
 - [AI Unity](https://docs.google.com/document/d/1IFN-UBsYQr3uqVetnu6pJXC-NUczqTsSEzDkwoXLqbo/edit?tab=t.0)
 - [Spatial Audio](https://docs.google.com/document/d/1FlK848Y9hrPyqrTTwKmPOR768kCXK8g5gLvKWfBgjpA/edit?tab=t.0)
+- [Sistemi di salvataggio](https://docs.google.com/document/d/1tMUMo5g2LiNgOWiE8dL7fykqhwLkTp0gRWD6cXuVRas/edit?tab=t.0#heading=h.73ahb9gyhw00)
+- [Anatomia Storia](https://docs.google.com/document/d/1aVspSaud5TjstIaDOu9VZmrCiat8Big41mZuVeeSjeQ/edit?tab=t.0)
+- [Game Desig](https://docs.google.com/document/d/1k-Fmwk5nnLDnqpaX6phwRGkJp-L9Ygk5GnfUHYDc58Y/edit?tab=t.0)
 
 ---
 
