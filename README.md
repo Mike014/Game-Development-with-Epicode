@@ -106,7 +106,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Spatial Audio](https://docs.google.com/document/d/1FlK848Y9hrPyqrTTwKmPOR768kCXK8g5gLvKWfBgjpA/edit?tab=t.0)
 - [Sistemi di salvataggio](https://docs.google.com/document/d/1tMUMo5g2LiNgOWiE8dL7fykqhwLkTp0gRWD6cXuVRas/edit?tab=t.0#heading=h.73ahb9gyhw00)
 - [Anatomia Storia](https://docs.google.com/document/d/1aVspSaud5TjstIaDOu9VZmrCiat8Big41mZuVeeSjeQ/edit?tab=t.0)
-- [Game Desig](https://docs.google.com/document/d/1k-Fmwk5nnLDnqpaX6phwRGkJp-L9Ygk5GnfUHYDc58Y/edit?tab=t.0)
+- [Game Design](https://docs.google.com/document/d/1k-Fmwk5nnLDnqpaX6phwRGkJp-L9Ygk5GnfUHYDc58Y/edit?tab=t.0)
 
 ---
 
