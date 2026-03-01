@@ -100,6 +100,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Jobs](https://docs.google.com/document/d/1f4FIT34GC6khM0Dcy-otY70x7vmAuALUIE1qsdymLuw/edit?tab=t.0)
 - [Ottimizzare Prestazioni in Unity](https://docs.google.com/document/d/1YqE_lrGKEEZC1aK1feE7Gag8I4ra5T_NM_AHN7sRzi8/edit?tab=t.0)
 - [Design pattern e i Principi SOLID](https://docs.google.com/document/d/1YQPo3Dr8Qy_6aSPV4SrY-Cnk6ipnr6mMbsB4niGOinU/edit?tab=t.0)
+- [Learn Coding Design Patterns with C# and Unity 6](https://docs.google.com/document/d/1gAY_ajA_qjzfC2e-jYfK0pJQXqGPa5upv2P1kdjC-OE/edit?usp=sharing)
 - [Argomento Avanzato C#](https://docs.google.com/document/d/1G4VHsKtjE4k4R1Tfatc13L-BXgutcK8y_7Z0bcDMmi8/edit?tab=t.0)
 - [NavMesh](https://docs.google.com/document/d/1NLhRqfKIM5A_lw0TQd3nOaOrecXuUhBf2AToVOOavwc/edit?tab=t.0#heading=h.vfso4c4bap86)
 - [AI Unity](https://docs.google.com/document/d/1IFN-UBsYQr3uqVetnu6pJXC-NUczqTsSEzDkwoXLqbo/edit?tab=t.0)
