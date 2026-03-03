@@ -112,6 +112,9 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [C# Learn Microsoft](https://docs.google.com/document/d/1qoFvHy1nYT9KljxUmESGIbNXwcDgCAiXwh2DJHgeODk/edit?usp=sharing)
 - [Exploring Generics, Delegates and Beyond](https://docs.google.com/document/d/1sTVRDa7GyNmQft0OVPH2aJkAVdVRw28BTwQ37YwSmys/edit?tab=t.0#heading=h.slgto3tr096)
 
+## 📂 Game Programming Patterns
+- [Command Pattern](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/ConcettiExtra/CommandPattern_Schema.md)
+
 ---
 
 ## 🧭 Percorso Professionale
