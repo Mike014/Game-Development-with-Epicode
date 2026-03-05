@@ -36,7 +36,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - **[Unity in Action – Applied Learning Project](https://github.com/Mike014/Unity-in-Action-Applied-Learning-Project-Joe-Hocking)**  
   Applicazione pratica dei concetti del libro *Unity in Action* di Joseph Hocking: FPS basics, movimento, fisica e sistemi di gioco.
 
-- **[Unity in Action – Versione AVANZATA Applied Learning Project]()**  
+- **[Unity in Action – Versione AVANZATA Applied Learning Project](https://github.com/Mike014/Unity-In-Action_Intermedio_Avanzato)**  
   Applicazione pratica dei concetti del libro *Unity in Action* di Joseph Hocking: FPS basics, movimento, fisica e sistemi di gioco.
 
 - **[Team Ozzico](https://github.com/Mike014/team-ozzico)**  
