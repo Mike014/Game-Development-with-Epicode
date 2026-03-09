@@ -117,6 +117,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [FPS Template in Unity](https://docs.google.com/document/d/17gZzES8zi0j4mVpDhs2GWdClLQheOHQYgcr48qULGuQ/edit?tab=t.0)
 - [URP](https://docs.google.com/document/d/13bYqRChYkasCqL31wFbxjwW3aYcE2q3YC_7Jx4edI6k/edit?usp=sharing)
 - [HLSL](https://docs.google.com/document/d/1v-qEic_NUPW-KPyUFpSn_UVHDtMchO8piH5eV6Ibh7E/edit?usp=sharing)
+- [Illuminazione Globale (GI) e Lightmapping](https://docs.google.com/document/d/1pcjkG0mkxiIx0CL7vcyz2jWd38gaczOcF8stpDk-mAM/edit?tab=t.0#heading=h.ao4mr77ai92p)
 
 ## 📂 Game Programming Patterns
 - [Command Pattern](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/ConcettiExtra/CommandPattern_Schema.md)
