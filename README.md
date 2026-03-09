@@ -114,6 +114,8 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Framework Integrato Truby + Schell](https://docs.google.com/document/d/191BMukuMkgpg-7G-FGIqKKgee7paRBBeCRgZaNqaG3s/edit?tab=t.0#heading=h.jhjth49i01t3)
 - [C# Learn Microsoft](https://docs.google.com/document/d/1qoFvHy1nYT9KljxUmESGIbNXwcDgCAiXwh2DJHgeODk/edit?usp=sharing)
 - [Exploring Generics, Delegates and Beyond](https://docs.google.com/document/d/1sTVRDa7GyNmQft0OVPH2aJkAVdVRw28BTwQ37YwSmys/edit?tab=t.0#heading=h.slgto3tr096)
+- [FPS Template in Unity](https://docs.google.com/document/d/17gZzES8zi0j4mVpDhs2GWdClLQheOHQYgcr48qULGuQ/edit?tab=t.0)
+- [URP](https://docs.google.com/document/d/13bYqRChYkasCqL31wFbxjwW3aYcE2q3YC_7Jx4edI6k/edit?usp=sharing)
 
 ## 📂 Game Programming Patterns
 - [Command Pattern](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/ConcettiExtra/CommandPattern_Schema.md)
