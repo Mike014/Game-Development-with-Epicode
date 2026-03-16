@@ -119,6 +119,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [HLSL](https://docs.google.com/document/d/1v-qEic_NUPW-KPyUFpSn_UVHDtMchO8piH5eV6Ibh7E/edit?usp=sharing)
 - [Illuminazione Globale (GI) e Lightmapping](https://docs.google.com/document/d/1pcjkG0mkxiIx0CL7vcyz2jWd38gaczOcF8stpDk-mAM/edit?tab=t.0#heading=h.ao4mr77ai92p)
 - [Game Programming Patterns](https://docs.google.com/document/d/1VY7C_JyBxyDLap7GBclVOt6G-BQnRX29qGwYHF3sOJM/edit?tab=t.0#heading=h.wbf0l9fkfpop)
+- [Concetti di Refactoring](https://docs.google.com/document/d/1DlxRpxaOsfo4s1WO_LmzBDRcKCjY7N5qP1v55AUj6f0/edit?tab=t.0#heading=h.gk1mvfbry0d1)
 
 ## 📂 Game Programming Patterns
 - [Command Pattern](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/ConcettiExtra/CommandPattern_Schema.md)
