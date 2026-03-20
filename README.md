@@ -62,6 +62,12 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 
 - **[Space Invaders](https://github.com/Mike014/SpaceAttackers_or_-SpaceInvaders-xD)**
   Un classico gioco arcade ispirato a Space Invaders, sviluppato con Unity.
+
+- **[Command Pattern Game](https://github.com/Mike014/Command_Pattern_Game)**
+  Il progetto dimostra l'applicazione del Command Pattern in un contesto di gioco a turni. Due giocatori si alternano eseguendo attacchi su una griglia 10×10. Ogni azione viene incapsulata in un oggetto comando, che può essere eseguito e annullato.
+
+- **[City Builder — Prototipo Unity](https://github.com/Mike014/City-Builder-Prototipo-Unity)**
+  City Builder è un prototipo di gioco gestionale in fase di sviluppo attivo, costruito con Unity e C#.
 ---
 
 ### Progetti AI / Narrative Systems (Ricerca e sperimentazione)
@@ -120,9 +126,6 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Illuminazione Globale (GI) e Lightmapping](https://docs.google.com/document/d/1pcjkG0mkxiIx0CL7vcyz2jWd38gaczOcF8stpDk-mAM/edit?tab=t.0#heading=h.ao4mr77ai92p)
 - [Game Programming Patterns](https://docs.google.com/document/d/1VY7C_JyBxyDLap7GBclVOt6G-BQnRX29qGwYHF3sOJM/edit?tab=t.0#heading=h.wbf0l9fkfpop)
 - [Concetti di Refactoring](https://docs.google.com/document/d/1DlxRpxaOsfo4s1WO_LmzBDRcKCjY7N5qP1v55AUj6f0/edit?tab=t.0#heading=h.gk1mvfbry0d1)
-
-## 📂 Game Programming Patterns
-- [Command Pattern](https://github.com/Mike014/Game-Development-with-Epicode/blob/main/ConcettiExtra/CommandPattern_Schema.md)
 
 ---
 
