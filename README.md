@@ -127,10 +127,10 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [Game Programming Patterns](https://docs.google.com/document/d/1VY7C_JyBxyDLap7GBclVOt6G-BQnRX29qGwYHF3sOJM/edit?tab=t.0#heading=h.wbf0l9fkfpop)
 - [Concetti di Refactoring](https://docs.google.com/document/d/1DlxRpxaOsfo4s1WO_LmzBDRcKCjY7N5qP1v55AUj6f0/edit?tab=t.0#heading=h.gk1mvfbry0d1)
 - [Ottimizzazione, Ink, Testing e Build](https://docs.google.com/document/d/1WBUVNtKt5LSdpvKVw3tvr7cWjKSpea4VXdg0kBazFuE/edit?tab=t.0#heading=h.fw2hcsc2gls3)
+- [Writing with Ink](https://docs.google.com/document/d/1tT5JnoUsFOd5dRfcRMqx-EO7U3fNsjkB2q_0EHdRMgc/edit)
 - [DEAD_AIR_STORY_ARCHITECTURE](https://docs.google.com/document/d/1fydiwT6h3TYMvayOMdnoAXsqVEKncyPSYEauwPCPtxY/edit?tab=t.0#heading=h.n71ap8gqp083)
 - [DEAD_AIR_CONCEPT](https://docs.google.com/document/d/19lzCzj4KluC-9Iayi9aIQmPGrRT4fcdhMTGNEUfs3tg/edit?tab=t.0)
-
-
+- [DEAD AIR - Scena 1](https://docs.google.com/document/d/1AXRHu3tBfq9NYKhXJQnWr8wlpkkn18FYZ-0bdrgomoQ/edit?tab=t.0)
 ---
 
 ## 🧭 Percorso Professionale
