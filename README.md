@@ -132,6 +132,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [DEAD_AIR_STORY_ARCHITECTURE](https://docs.google.com/document/d/1fydiwT6h3TYMvayOMdnoAXsqVEKncyPSYEauwPCPtxY/edit?tab=t.0#heading=h.n71ap8gqp083)
 - [DEAD_AIR_CONCEPT](https://docs.google.com/document/d/19lzCzj4KluC-9Iayi9aIQmPGrRT4fcdhMTGNEUfs3tg/edit?tab=t.0)
 - [DEAD AIR - Scena 1](https://docs.google.com/document/d/1AXRHu3tBfq9NYKhXJQnWr8wlpkkn18FYZ-0bdrgomoQ/edit?tab=t.0)
+- [IviPro Game Design Lesson](https://docs.google.com/document/d/1Cts8bzA-crot1Wp0kbj041_DRZgEZIL3-c2SVTzQWZY/edit?tab=t.0#heading=h.tjr61f7s8rhw)
 ---
 
 ## 🧭 Percorso Professionale
