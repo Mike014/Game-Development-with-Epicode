@@ -134,6 +134,7 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [DEAD AIR - Scena 1](https://docs.google.com/document/d/1AXRHu3tBfq9NYKhXJQnWr8wlpkkn18FYZ-0bdrgomoQ/edit?tab=t.0)
 - [IviPro Game Design Lesson](https://docs.google.com/document/d/1Cts8bzA-crot1Wp0kbj041_DRZgEZIL3-c2SVTzQWZY/edit?tab=t.0#heading=h.tjr61f7s8rhw)
 - [IviPro Narrative Design Lesson](https://docs.google.com/document/d/1n4pOwlUroY47gtwrJPcAG6pUPCya9aCJWFjzKWeey1o/edit?usp=sharing)
+- [Scrum](https://docs.google.com/document/d/1N-5c5jW4dHHKQPUA0Vy3UYwA0pjaP21MKtkV3rmrHQA/edit?usp=sharing)
 
 ---
 
