@@ -135,6 +135,10 @@ sviluppati durante il **Master in Game Development con Epicode**, insieme a mate
 - [IviPro Game Design Lesson](https://docs.google.com/document/d/1Cts8bzA-crot1Wp0kbj041_DRZgEZIL3-c2SVTzQWZY/edit?tab=t.0#heading=h.tjr61f7s8rhw)
 - [IviPro Narrative Design Lesson](https://docs.google.com/document/d/1n4pOwlUroY47gtwrJPcAG6pUPCya9aCJWFjzKWeey1o/edit?usp=sharing)
 - [Scrum](https://docs.google.com/document/d/1N-5c5jW4dHHKQPUA0Vy3UYwA0pjaP21MKtkV3rmrHQA/edit?usp=sharing)
+- [LeetCode](https://docs.google.com/document/d/10C1__tXVkc1cZXhjAnrs57BuKSOIKWz1IHMwY_4dQ4c/edit?tab=t.0#heading=h.26j5wc9pl6es)
+- [Contributor Open Source](https://docs.google.com/document/d/1m7vnYUMe2Ks2v7C67nvBCeXpFSvXXMjJj5wtGNWp0hw/edit?tab=t.0#heading=h.fd39koqepxd4)
+- [C++](https://docs.google.com/document/d/1uQGVzHDg97sFXta4OIsmFQ7fG4uB9E2mhoPlxRMRLqE/edit?tab=t.0#heading=h.xtqb0nvhtrpm)
+- [Grokking Algorithms](https://docs.google.com/document/d/1hbDCNuAa7T0kxyoQsxuxbjgd9os75ksL9jhokS3pHZk/edit?tab=t.0#heading=h.hak9v8md11b)
 
 ---
 
