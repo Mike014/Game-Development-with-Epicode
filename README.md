@@ -90,6 +90,7 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 - [Game Programming Patterns](https://docs.google.com/document/d/1VY7C_JyBxyDLap7GBclVOt6G-BQnRX29qGwYHF3sOJM/edit)
 - [Concetti di Refactoring](https://docs.google.com/document/d/1DlxRpxaOsfo4s1WO_LmzBDRcKCjY7N5qP1v55AUj6f0/edit)
 - [Grokking Algorithms](https://docs.google.com/document/d/1hbDCNuAa7T0kxyoQsxuxbjgd9os75ksL9jhokS3pHZk/edit)
+- [LeetCode](https://docs.google.com/document/d/10C1__tXVkc1cZXhjAnrs57BuKSOIKWz1IHMwY_4dQ4c/edit?tab=t.0#heading=h.26j5wc9pl6es)
 
 **C# & .NET:**
 - [C# Learn Microsoft - Tipi](https://docs.google.com/document/d/1qoFvHy1nYT9KljxUmESGIbNXwcDgCAiXwh2DJHgeODk/edit)
@@ -97,6 +98,7 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 - [Exploring Generics, Delegates and Beyond](https://docs.google.com/document/d/1sTVRDa7GyNmQft0OVPH2aJkAVdVRw28BTwQ37YwSmys/edit)
 - [Argomento Avanzato C#](https://docs.google.com/document/d/1G4VHsKtjE4k4R1Tfatc13L-BXgutcK8y_7Z0bcDMmi8/edit)
 - [Learn Coding Design Patterns with C# and Unity 6](https://docs.google.com/document/d/1gAY_ajA_qjzfC2e-jYfK0pJQXqGPa5upv2P1kdjC-OE/edit)
+- [.NET](https://docs.google.com/document/d/1TjCKUn1dyN3qnl2b5Re-iMZcnFMmm55xLuOISUsmGIc/edit?tab=t.0#heading=h.s98uvw16p2mc)
 
 **Unity Technical:**
 - [Ottimizzare Prestazioni in Unity](https://docs.google.com/document/d/1YqE_lrGKEEZC1aK1feE7Gag8I4ra5T_NM_AHN7sRzi8/edit)

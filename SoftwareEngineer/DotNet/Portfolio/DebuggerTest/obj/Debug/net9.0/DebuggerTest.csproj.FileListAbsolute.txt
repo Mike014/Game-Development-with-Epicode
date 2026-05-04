@@ -1,0 +1,15 @@
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\bin\Debug\net9.0\DebuggerTest.exe
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\bin\Debug\net9.0\DebuggerTest.deps.json
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\bin\Debug\net9.0\DebuggerTest.runtimeconfig.json
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\bin\Debug\net9.0\DebuggerTest.dll
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\bin\Debug\net9.0\DebuggerTest.pdb
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.AssemblyInfoInputs.cache
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.AssemblyInfo.cs
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.csproj.CoreCompileInputs.cache
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.sourcelink.json
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.dll
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\refint\DebuggerTest.dll
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.pdb
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\DebuggerTest.genruntimeconfig.cache
+c:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DebuggerTest\obj\Debug\net9.0\ref\DebuggerTest.dll

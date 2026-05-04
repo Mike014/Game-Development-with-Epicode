@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\bin\Debug\net9.0\DirectoriesExercise.exe
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\bin\Debug\net9.0\DirectoriesExercise.deps.json
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\bin\Debug\net9.0\DirectoriesExercise.runtimeconfig.json
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\bin\Debug\net9.0\DirectoriesExercise.dll
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\bin\Debug\net9.0\DirectoriesExercise.pdb
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.sourcelink.json
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.dll
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\refint\DirectoriesExercise.dll
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.pdb
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\DirectoriesExercise.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Epicode\Game-Development-with-Epicode\SoftwareEngineer\DotNet\Portfolio\DirectoriesExercise\obj\Debug\net9.0\ref\DirectoriesExercise.dll
