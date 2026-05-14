@@ -1,5 +1,5 @@
 # Michele Grimaldi — Software Engineer
-## C#/.NET · Go · C++ · Python
+## C#/.NET · C++ · Python
 
 Software Engineer with a background in game development and audio systems, pivoting toward backend and systems engineering. Specialized in C#/.NET architectures, event-driven systems, and high-performance tooling.
 
@@ -9,12 +9,12 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 
 ## Stack
 
-**Primary:** C# (.NET), Go *(in progress)*
-**Secondary:** C++, Python
-**Backend:** ASP.NET Core *(in progress)*, Entity Framework *(in progress)*
+**Primary:** C#, C++, Java *(in progress)*
+**Secondary:** Python
+**Backend:** ASP.NET Core, Spring Boot *(in progress)*, Django, PostgreSQL
 **Game/Audio:** Unity, Unreal Engine, JUCE, Wwise
-**Systems:** Event-Driven Architecture, Lock-free Multithreading, Memory Pooling, MVVM
-**Workflow:** Git, CI/CD, Unit Testing, Agile/Scrum
+**Systems:** Event-Driven Architecture, Observer Pattern, Lock-free Multithreading, Memory Pooling, MVVM
+**Workflow:** Git, Docker, CI/CD, Unit Testing, Linux, Agile/Scrum
 
 ---
 
@@ -60,28 +60,10 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 - **MasAcademy** — Bachelor's in Music and Sound Design for Cinema and Videogames · 2022–2024
 - **Codecademy** — Professional Certification in Computer Science, Python · 86/100 · 2024–2025
 
----
+--- 
 
-## Study Path 2026
-
-**Now -- C#/.NET backend:**
-- freecodecamp.org/learn/foundational-c-sharp-with-microsoft
-- Microsoft Learn -- ASP.NET Core, Web API, Entity Framework
-- Grokking Algorithms
-
-**Next -- Go:**
-- [Go](https://go.dev)
-- Target: iGaming and startup backend roles
-
-**Parallel -- Spanish:**
-- [Learn](https://www.freecodecamp.org/learn/a1-professional-spanish/) 
-- Target: B1 by Q3 2026 · Planned relocation to Spain
-
-**Parallel -- English:**
-- [Learn](https://www.freecodecamp.org/learn/a2-english-for-developers/) 
-- Target: B1 by Q3 2026 · Planned relocation 
-
----
+### CV Draft
+- **[Link](https://docs.google.com/document/d/1wvzA3WK0p7dBfAYHPdW44HWnu2-JeofGgSEkJ4yxJ2w/edit?tab=t.0)** 
 
 ## Study Materials
 
@@ -89,7 +71,7 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 - [Design Patterns e Principi SOLID](https://docs.google.com/document/d/1YQPo3Dr8Qy_6aSPV4SrY-Cnk6ipnr6mMbsB4niGOinU/edit)
 - [Game Programming Patterns](https://docs.google.com/document/d/1VY7C_JyBxyDLap7GBclVOt6G-BQnRX29qGwYHF3sOJM/edit)
 - [Concetti di Refactoring](https://docs.google.com/document/d/1DlxRpxaOsfo4s1WO_LmzBDRcKCjY7N5qP1v55AUj6f0/edit)
-- [Grokking Algorithms](https://docs.google.com/document/d/1hbDCNuAa7T0kxyoQsxuxbjgd9os75ksL9jhokS3pHZk/edit)
+- [Grokking Algorithms](https://docs.google.com/document/d/1pnhVYDMVJdLdMxqGDlwKNrJGaz3Ef80LXPnCxx3Olzo/edit?tab=t.0)
 - [LeetCode](https://docs.google.com/document/d/10C1__tXVkc1cZXhjAnrs57BuKSOIKWz1IHMwY_4dQ4c/edit?tab=t.0#heading=h.26j5wc9pl6es)
 
 **C# & .NET:**
@@ -119,8 +101,8 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 
 ## Target Roles
 
-Software Engineer · Backend Developer · Gameplay Programmer · Tools Programmer · Audio Programmer
+Software Engineer · Backend Developer · Gameplay Programmer · Tools Programmer 
 
-**Location:** Remote EU · Open to relocation · Spain Q3 2026
+**Location:** Remote EU · Open to relocation 
 
 ---
