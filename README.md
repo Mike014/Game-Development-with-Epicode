@@ -84,6 +84,7 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 
 **Unity Technical:**
 - [Ottimizzare Prestazioni in Unity](https://docs.google.com/document/d/1YqE_lrGKEEZC1aK1feE7Gag8I4ra5T_NM_AHN7sRzi8/edit)
+- [Saving, Loading and Serializing Data](https://docs.google.com/document/d/1tMUMo5g2LiNgOWiE8dL7fykqhwLkTp0gRWD6cXuVRas/edit?tab=t.0#heading=h.73ahb9gyhw00)
 - [NavMesh](https://docs.google.com/document/d/1NLhRqfKIM5A_lw0TQd3nOaOrecXuUhBf2AToVOOavwc/edit)
 - [Ottimizzazione, Ink, Testing e Build](https://docs.google.com/document/d/1WBUVNtKt5LSdpvKVw3tvr7cWjKSpea4VXdg0kBazFuE/edit)
 - [LeetCode Notes](https://docs.google.com/document/d/10C1__tXVkc1cZXhjAnrs57BuKSOIKWz1IHMwY_4dQ4c/edit)
