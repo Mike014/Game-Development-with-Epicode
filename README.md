@@ -41,7 +41,7 @@ Open to remote roles and relocation across EU. Target market: software engineeri
 - **[Unity in Action Advanced](https://github.com/Mike014/Unity-In-Action_Intermedio_Avanzato)** — Intermediate/Advanced continuation.
 
 ### Collaborative
-- **[Team Ozzico](https://github.com/Mike014/team-ozzico)** — Collaborative project during Epicode Master. Focus on Git workflow and team development practices.
+- [Agile vs Waterfall](https://docs.google.com/document/d/1N-5c5jW4dHHKQPUA0Vy3UYwA0pjaP21MKtkV3rmrHQA/edit?tab=t.0#heading=h.4b4qnzp9clcr)
 
 ---
 
